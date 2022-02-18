@@ -1,11 +1,10 @@
 # 자바 스크립트 토이 프로젝트
 
-:link: **링크** https://heejinkim0812.github.io/momentum/
+Simple **Todo list Web**  
+:link: **DEMO link** https://heejinkim0812.github.io/js-momentum/
 <br/>  
 ![1](https://user-images.githubusercontent.com/71063574/148744501-32df47ff-94a2-4815-9833-aabb07f90db8.jpg)
 ![2](https://user-images.githubusercontent.com/71063574/148744513-0349818a-1c16-4753-ba43-e6a3bab910b3.jpg)
-<br/>  
-기본적인 to-do list 사이트 만들기
 <br/>  
 <br/>
 
